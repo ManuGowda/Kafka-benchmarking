@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Benchmark Kafka concurrent connection and throughput",
+  "scripts": {
+    "gulp": "gulp",
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "kafka-node": "^1.0.7"
+  },
+  "author": "@ManuGowda <manugowda.ns@gmail.com>",
+  "license": "ISC"
+}
